@@ -1,5 +1,4 @@
-server:
-  port: 7001
+
 eureka:
   instance:
     hostname: eureka7001.com #eureka服务器端实例名称
