@@ -10,7 +10,7 @@ spring:
             - springcloud-learning
           username: kejianming
           password: 961004@abcd
-      label: main
+      label: master
 
 eureka:
   client:
