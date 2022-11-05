@@ -1,16 +1,6 @@
 spring:
   application:
     name: SPRING-CLOUD-CONFIG #注册进eureka服务器的名
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/kejianming/springcloud-learning.git
-          search-paths: #搜索目录
-            - springcloud-learning
-          username: kejianming
-          password: 961004@abcd
-      label: master
 
 eureka:
   client:
