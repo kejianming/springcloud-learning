@@ -11,4 +11,4 @@ eureka:
       #集群版
       defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com/eureka
 test:
-  test1: hello world!
+  test1: hello world 6666!
